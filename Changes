@@ -1,5 +1,4 @@
-Revision history for KiokuX-AsGraph
+Revision history for KiokuX-Visualize-AsGraph
 
-0.01    Date/time
-        First version, released on an unsuspecting world.
-
+0.01    25.03.2010 Thu 10:28 PM
+        Got basic app working, using GraphViz with HTML-like labels.

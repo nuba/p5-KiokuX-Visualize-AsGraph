@@ -48,7 +48,7 @@ TODO: {
     "placeholder date/time"       => qr(Date/time)
   );
 
-  module_boilerplate_ok('lib/KiokuX/AsGraph.pm');
+  module_boilerplate_ok('lib/KiokuX/Visualize/AsGraph.pm');
 
 
 }
